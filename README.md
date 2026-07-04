@@ -216,17 +216,16 @@ The project is built using:
 # 📸 Screenshots
 
 ```
-Add screenshots here
 
-/docs/images/menu.jpg
+/images/menu.jpg
 
-/docs/images/wifi_scan.jpg
+/images/wifi_scan.jpg
 
-/docs/images/sniffer.jpg
+/images/sniffer.jpg
 
-/docs/images/nfc.jpg
+/images/nfc.jpg
 
-/docs/images/ble.jpg
+/images/ble.jpg
 ```
 
 ---
